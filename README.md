@@ -1,1 +1,1 @@
-Live Demo: https://lynn114632.github.io/pricing-table/
+Live Demo: https://lin-lae.github.io/pricing-table/
